@@ -1,0 +1,39 @@
+{
+	"wallpapers": [
+		{
+			"name": "inspired",
+			"author": "eL'Styles",
+			"url": "'http://www.flickr.com/gp/elstyles/24vphY/'inspired.png",
+			"dimensions": "2048 x 1820",
+			"copyright": "'Copyright ¸ 2013 - 2016 eL'Styles. All rights reserved.'"
+		},
+		{
+			"name": "inspired_v2",
+			"author": "eL'Styles",
+			"url": "'http://www.flickr.com/gp/elstyles/24vphY/'inspired_v2.png",
+			"dimensions": "2048 x 1820",
+			"copyright": "'Copyright ¸ 2013 - 2016 eL'Styles. All rights reserved.'"
+		},
+		{
+			"name": "overlays_hl",
+			"author": "eL'Styles",
+			"url": "'http://www.flickr.com/gp/elstyles/24vphY/'overlays_hl.png",
+			"dimensions": "2048 x 1689",
+			"copyright": "'Copyright ¸ 2013 - 2016 eL'Styles. All rights reserved.'"
+		},
+		{
+			"name": "overlays_v1",
+			"author": "eL'Styles",
+			"url": "'http://www.flickr.com/gp/elstyles/24vphY/'overlays_v1.png",
+			"dimensions": "2048 x 1689",
+			"copyright": "'Copyright ¸ 2013 - 2016 eL'Styles. All rights reserved.'"
+		},
+		{
+			"name": "pixel",
+			"author": "eL'Styles",
+			"url": "'http://www.flickr.com/gp/elstyles/24vphY/'pixel.png",
+			"dimensions": "2880 x 2560",
+			"copyright": "'Copyright ¸ 2013 - 2016 eL'Styles. All rights reserved.'"
+		}
+	]
+}
